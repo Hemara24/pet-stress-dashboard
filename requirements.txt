@@ -3,5 +3,7 @@ gunicorn
 pandas
 plotly
 statsmodels
+scipy
+
 
 
